@@ -1,4 +1,6 @@
 # Cross-platform AIR/FlashDevelop setup
+This is a project setup I'm using to produce cross-platform games like Steampunk Idle Spinner, Farm and Mine or Idle Tower Builder. If you find it useful, please, consider supporting initiatives for Ukrainian defenders, such as: Gamedev under Bombs: https://www.ggconference.com/en/gamedev-under-bombs/ O-Pocket: https://o-pocket.org/ UNITED24: https://u24.gov.ua/ Come Back Alive: https://savelife.in.ua/en/ You help is appreciated and it can really save lives.
+
 libraries - useful 3rd party libraires, like junkbyte console
 CommonCode - all the code which will be common in all platforms
 Project-.../src - platform-specific part for each project
