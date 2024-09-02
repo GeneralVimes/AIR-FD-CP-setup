@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<application xmlns="http://ns.adobe.com/air/application/51.1">
+  <id>game</id>
+  <versionNumber>1.0.0</versionNumber>
+  <filename>Game</filename>
+  <name>Game</name>
+  <copyright>Airapport</copyright>
+  <initialWindow>
+    <title>Game</title>
+    <content>Game.swf</content>
+    <systemChrome>standard</systemChrome>
+    <transparent>false</transparent>
+    <visible>true</visible>
+    <minimizable>true</minimizable>
+    <maximizable>true</maximizable>
+    <resizable>true</resizable>
+    <aspectRatio>landscape</aspectRatio>
+    <renderMode>direct</renderMode>
+    <autoOrients>true</autoOrients>
+    <fullScreen>false</fullScreen>
+    <softKeyboardBehavior>none</softKeyboardBehavior>
+    <depthAndStencil>true</depthAndStencil>
+    <requestedDisplayResolution>standard</requestedDisplayResolution>
+  </initialWindow>
+</application>

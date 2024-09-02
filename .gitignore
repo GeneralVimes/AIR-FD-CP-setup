@@ -1,0 +1,32 @@
+# Build and Release Folders
+bin-debug/
+bin-release/
+[Oo]bj/
+#[Bb]in/
+dist/
+
+#aab temp files
+Project-Android/AndroidStudioProject/
+
+# Other files and folders
+.settings/
+
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+
+#!Project-Android\lib\co.enhance.airconnector.ane\*.swf
+#!*.swf
+!Project-*/lib/**/*.ane/**/*.swf
+
+#Flash Develop temp files
+debug.log
+
+#Assets.car
+#*.car
+
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
