@@ -1,0 +1,35 @@
+{
+	"compilerOptions": {
+		"source-path": [
+			"../CommonCode/src",
+			"../_libraries/junkbyte",
+			"src"
+		],
+		"output": "../Project/bin/Game.swf",
+		"default-frame-rate": 60,
+		"default-background-color": "#FFFFFF",
+		"default-size": {
+			"width": 480,
+			"height": 762
+		},
+		"target-player": "28.0",
+		"accessible": false,
+		"advanced-telemetry": false,
+		"benchmark": false,
+		"optimize": true,
+		"omit-trace-statements": true,
+		"show-unused-type-selector-warnings": true,
+		"strict": true,
+		"use-network": true,
+		"use-resource-bundle-metadata": true,
+		"warnings": true,
+		"verbose-stacktraces": false,
+		"static-link-runtime-shared-libraries": true
+	},
+	"files": [
+		"../CommonCode/src/Main.as"
+	],
+	"config": "airmobile",
+	"application": "application.xml",
+	"additionalOptions": "-swf-version=51"
+}

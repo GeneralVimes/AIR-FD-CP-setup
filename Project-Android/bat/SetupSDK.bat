@@ -4,7 +4,7 @@ cd %~dp0 & cd ..
 :user_configuration
 
 :: Static path to Flex SDK
-set FLEX_SDK=D:\Tools\Air\511
+set FLEX_SDK=D:\Tools\Air\AIRSDK_51.2.2
 
 :: Use FD supplied SDK path if executed from FD
 if exist "%FD_CUR_SDK%" set FLEX_SDK=%FD_CUR_SDK%
@@ -12,7 +12,7 @@ if exist "%FD_CUR_SDK%" set FLEX_SDK=%FD_CUR_SDK%
 set AUTO_INSTALL_IOS=yes
 
 :: Path to Android SDK
-set ANDROID_SDK=D:\Tools\FlashDevelop\Tools\android
+set ANDROID_SDK=D:\Tools\AndroidSdk
 
 :validation
 if not exist "%FLEX_SDK%\bin" goto flexsdk
