@@ -1,16 +1,16 @@
 {
 	"compilerOptions": {
 		"source-path": [
+			"src",
 			"../CommonCode/src",
-			"../_libraries/junkbyte",
-			"src"
+			"../_libraries/junkbyte"
 		],
 		"output": "../Project/bin/Game.swf",
 		"default-frame-rate": 60,
 		"default-background-color": "#FFFFFF",
 		"default-size": {
-			"width": 480,
-			"height": 762
+			"width": 800,
+			"height": 600
 		},
 		"target-player": "51.0",
 		"accessible": false,
@@ -29,7 +29,7 @@
 	"files": [
 		"../CommonCode/src/Main.as"
 	],
-	"config": "airmobile",
+	"config": "air",
 	"application": "application.xml",
-	"additionalOptions": "-swf-version=51"
+	"additionalOptions": "-default-script-limits 256 65535 -swf-version=51"
 }

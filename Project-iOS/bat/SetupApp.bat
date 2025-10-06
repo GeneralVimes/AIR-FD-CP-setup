@@ -15,7 +15,7 @@ set IOS_DIST_CERT_FILE=cert\CertificateDistFromApple.p12
 set IOS_DEV_CERT_FILE=cert\CertificateDevFromApple.p12
 ::
 set IOS_DEV_CERT_PASS=fdfd
-set IOS_PROVISION=cert\GameDev.mobileprovision
+set IOS_PROVISION=cert\GameDevETI.mobileprovision
 
 set IOS_DIST_PROVISION=cert\GameAdHoc.mobileprovision
 ::set IOS_DIST_PROVISION=cert\GameDist.mobileprovision

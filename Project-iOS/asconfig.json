@@ -6,13 +6,13 @@
 			"src"
 		],
 		"output": "../Project/bin/Game.swf",
-		"default-frame-rate": 60,
+		"default-frame-rate": 30,
 		"default-background-color": "#FFFFFF",
 		"default-size": {
 			"width": 480,
 			"height": 762
 		},
-		"target-player": "51.0",
+		"target-player": "28.0",
 		"accessible": false,
 		"advanced-telemetry": false,
 		"benchmark": false,

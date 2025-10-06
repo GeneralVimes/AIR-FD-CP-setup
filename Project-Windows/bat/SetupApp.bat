@@ -27,7 +27,7 @@ for /f "tokens=3 delims=<>" %%a in ('findstr /R /C:"^[ 	]*<id>" %APP_XML%') do s
 set APP_ID=%APP_ID: =%
 
 :: Output
-set AIR_PATH=..\Project\air
+set AIR_PATH=..\Project\dist
 set AIR_NAME=Game
 
 :validation

@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../CommonCode/src"
+		},
+		{
+			"path": "../Project/bin"
+		},
+		{
+			"path": "../Project/dist"
+		}
+	],
+	"settings": {
+		"as3mxml.sdk.framework": "d:\\Tools\\AIR\\AIRSDK_51.2.2"
+	}
+}
